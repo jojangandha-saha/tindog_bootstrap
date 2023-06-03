@@ -23,7 +23,6 @@
   border-radius: 0.75rem;
 }
 
-/* */
 
 .profile-img {
   height: 100px;
@@ -32,13 +31,11 @@
 
 #pricing{
   background-color: white;
-
- 
 }
 
 #features{
   background-color: white;
-  /* width: 100%; */
+  
   padding: 60px;
   margin: 20px 20px 10px 40px;
 
@@ -48,35 +45,4 @@
   background-color: whitesmoke;
   text-align: center;
  
-}
-
-/* 
-.container > .row{
-  padding: 20px;
-  width: 100%;
-  text-align: center;
-
-} */
-
-/* #title{
- 
-   width: 100%
-} */
-
-
-/* #title img{
-  padding: 20px;
-} */
-
-/* .d-block {
-    display: block!important;
-}
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-}
- */
-
-#footer p{
-  margin: 20px;
 }
